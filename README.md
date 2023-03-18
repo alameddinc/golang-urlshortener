@@ -1,5 +1,7 @@
 ### Golang Project for Students (An Url Shortener)
 
+Please read the [README_TR.md](README_TR.md) for Turkish version of this document.
+
 #### Introduction
 
 This is a simple project for students to learn Golang. It is a url shortener. It is a simple project for students to learn Golang. It is a url shortener.
